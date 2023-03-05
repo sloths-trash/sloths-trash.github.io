@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+}
+hr{
+    border-style: dotted none none; 
+    border-color: grey; 
+    border-width: 10px;
+    width: 6.5%;
+}
+h1{
+    color: #987554;
+    font-family: 'Tilt Warp', cursive;
+}
+h3{
+    color: #987554;
+    font-family: 'Tilt Warp', cursive;
+}
+p, li, td{
+    font-family: 'Ubuntu', sans-serif;
+}
+th{
+    font-family: 'Ubuntu', sans-serif;
+    color: #b99976;
+}
+img{
+    border: 5px solid #987554;
+    border-radius: 50%;
+   
+}
